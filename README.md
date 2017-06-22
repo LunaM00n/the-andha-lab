@@ -13,7 +13,7 @@ Andha means Blind for Buddha's Parli.
 <img src="https://s16.postimg.org/6qgxtp9mt/andha.png">
 
 # Future Development 
-Blind Xpath Injection
+Blind Xpath Injection, 
 Blind Time Based SQL Injection
 
 # Authors
