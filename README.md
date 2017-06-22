@@ -12,6 +12,10 @@ Andha means Blind for Buddha's Parli.
 # Screenshot
 <img src="https://s16.postimg.org/6qgxtp9mt/andha.png">
 
+# Installation
+Download The Andha Lab file and place to C://xampp/htdocs/ or /var/www/html/.
+Create database named blind and import blind.sql file into this database.
+
 # Future Development 
 Blind Xpath Injection, 
 Blind Time Based SQL Injection
