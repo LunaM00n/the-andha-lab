@@ -23,5 +23,9 @@ Blind Time Based SQL Injection
 # Authors
 Thin Ba Shane ( <a href="https://twitter.com/art0flunam00n">@art0flunam00n</a> )
 
+# Writeups & Walkthroughs 
+If you write a writeup for the andha lab , tweet with @art0flunam00n to let me know. Otherwise ,you can submit to my emial , thinbashane@gmail.com 
+
+
 # Website
 http://location-href.com
